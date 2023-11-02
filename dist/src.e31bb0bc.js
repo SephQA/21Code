@@ -28974,7 +28974,7 @@ var PairCounter = /*#__PURE__*/function (_React$Component) {
   }, {
     key: "render",
     value: function render() {
-      var arr = [6, 43, 3, 2, 5, 9, 7];
+      var arr = [1, 2, 3, 4, 5, 6, 7];
       var X = 50;
       var result = this.countPairsWithSum(arr, X);
       return /*#__PURE__*/_react.default.createElement("div", null, /*#__PURE__*/_react.default.createElement("p", null, "Count of pairs with sum ", X, ": ", result));

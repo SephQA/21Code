@@ -24,7 +24,7 @@ class PairCounter extends React.Component {
   }
 
   render() {
-    const arr = [6, 43, 3, 2, 5, 9, 7];
+    const arr = [1, 2, 3, 4, 5, 6, 7];
     const X = 50;
     const result = this.countPairsWithSum(arr, X);
 
